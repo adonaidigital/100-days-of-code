@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 My goal is to earn my responsive web design cerficate alongside with Js Algorithms and Data structures certificate.
 
-### Day 1: January 3, 2019 
+### Day 1: January 3, Thursday 
 ##### (delete me or comment me out)
 
 **Today's Progress**: worked on my product landing page in fcc.
@@ -10,14 +10,14 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 
 **Link to work:** [Product Landing Page](https://github.com/adonaidigital/fcc-product-landing-page)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: January 4, Friday 
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I was able to connect the nav-links to different sections of the page.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I really struggled with making my embedded video pass the test and unable to figure out why my form is not passing the test too, but I'm glad at the progress made.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Product Landing Page](https://github.com/adonaidigital/fcc-product-landing-page/commit/ec79c1841c10d25fd1c145574bc8f81bad54ae96)
 
 
 ### Day 1: June 27, Monday
