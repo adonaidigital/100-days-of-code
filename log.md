@@ -8,7 +8,7 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it.
 
-**Link to work:** [Product Landing Page](https://github.com/adonaidigital/fcc-product-landing-page)
+**Link to work:** [Product Landing Page](https://github.com/adonaidigital/fcc-product-landing-page/commit/07ec1c69be0728822ee23692b3e188a22dff063c)
 
 ### Day 2: January 4, Friday 
 ##### (delete me or comment me out)
@@ -20,12 +20,12 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 **Link(s) to work**: [Product Landing Page](https://github.com/adonaidigital/fcc-product-landing-page/commit/ec79c1841c10d25fd1c145574bc8f81bad54ae96)
 
 
-### Day 1: June 27, Monday
+### Day 3: January 5, Saturday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Completed Product landing page(project 3: Responsive web design) on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** My page is not fully responsive yet thought it passed all fcc test, I need to perfect my responsive design skills before advancing to the next project; I have two more to go to earn my certificate.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Product Landing Page](https://github.com/adonaidigital/fcc-product-landing-page/commit/a471638eabbc8a514cf546801559d9c30718daa9)
+
