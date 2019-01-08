@@ -32,4 +32,12 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 
 **Thoughts**: Emmet saved me a lot of time, I wonder why I hadn't been using it but I'm glad I did. I'm still pondering on how to replicate the side bar with the nav-links.
 
-**Link(s) to work**: [Technical Page]
+**Link(s) to work**: [Technical Page](https://github.com/adonaidigital/fcc-technical-documentation-page/commit/2ec55282b5539e7cceb357c9b2388f8a5ba809df)
+
+### Day 5: January 7, Monday 
+
+**Today's Progress**: worked on my product landing page in fcc, partially completed the css part.
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it.
+
+**Link to work:** [Technical Page](https://github.com/adonaidigital/fcc-product-landing-page/commit/265aae95533ce4c22f18e314a3247ba6c4966f11)
