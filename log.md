@@ -40,4 +40,12 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it.
 
-**Link to work:** [Technical Page](https://github.com/adonaidigital/fcc-product-landing-page/commit/265aae95533ce4c22f18e314a3247ba6c4966f11)
+**Link to work:** [Technical Page](https://github.com/adonaidigital/fcc-technical-documentation-page/commit/774c1d9b937b0546db06a48a98533be4d6ef0df5)
+
+### Day 6: January 8, Tuesday 
+
+**Today's Progress**: worked on my product landing page in fcc, passed 15/16 test of the project requirement.
+
+**Thoughts:** Seems Layout and CSS are two different things and each of them should be mastered as a modern web developer. I am yet to perfect my art of responsive design.
+
+**Link to work:** [Technical Page](https://github.com/adonaidigital/fcc-technical-documentation-page/commit/b45eb7dd8553067df0c277536c1bbd93e83cc07c)
