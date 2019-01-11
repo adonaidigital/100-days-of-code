@@ -36,7 +36,7 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 
 ### Day 5: January 7, Monday 
 
-**Today's Progress**: worked on my product landing page in fcc, partially completed the css part.
+**Today's Progress**: worked on my Technical documentation page in fcc, partially completed the css part.
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it.
 
@@ -44,8 +44,18 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 
 ### Day 6: January 8, Tuesday 
 
-**Today's Progress**: worked on my product landing page in fcc, passed 15/16 test of the project requirement.
+**Today's Progress**: worked on my Technical documentation page in fcc, passed 15/16 test of the project requirement.
 
 **Thoughts:** Seems Layout and CSS are two different things and each of them should be mastered as a modern web developer. I am yet to perfect my art of responsive design.
 
 **Link to work:** [Technical Page](https://github.com/adonaidigital/fcc-technical-documentation-page/commit/b45eb7dd8553067df0c277536c1bbd93e83cc07c)
+
+### Day 7: January 10, Thursday 
+
+**Today's Progress**: Completed Technical documentation page(project 4: Responsive web design) on FreeCodeCamp..
+
+**Thoughts:** Layout and CSS are two different things. struggled to pass the last test but I persisted and  I am glad I did. I need more exercises to perfect my layout skills.
+
+**Link to work:** 
+1. [Technical Page](https://github.com/adonaidigital/fcc-technical-documentation-page/commit/9b3baf01121674d4083549de9f870204e236169e)
+2. [Codepen ref](https://codepen.io/Codesm1th/pen/ebjWyR?editors=0100)
