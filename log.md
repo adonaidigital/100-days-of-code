@@ -71,9 +71,9 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 
 ### Day 8: January 11, Friday 
 
-**Today's Progress**: started my personal portfolio page(project 5: Responsive web design) on FreeCodeCamp..
+**Today's Progress**: almost done with my personal portfolio page(project 5: Responsive web design) on FreeCodeCamp..
 
-**Thoughts:** I am already becoming a maestro at this craft. I need similar projects to reach a black-belt level though my confidence has been built and it cant be taken away.
+**Thoughts:** I cant believe I passed 11/12 test without using fully utilizing the grid system. I am unable to figure out why the link is not passing the test.
 
 **Link to work:**[Codepen ref](https://codepen.io/Codesm1th/details/OrajGj)
 
