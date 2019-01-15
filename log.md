@@ -64,16 +64,31 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 
 **Today's Progress**: started my personal portfolio page(project 5: Responsive web design) on FreeCodeCamp..
 
-**Thoughts:** I am already becoming a maestro at this craft. I need similar projects to reach a black-belt level though my confidence has been built and it cant be taken away.
+**Thoughts:** I am already becoming a maestro at this craft. I need similar projects to reach a black-belt, though my confidence has been built and it cant be taken away.
 
 **Link to work:**[Codepen ref](https://codepen.io/Codesm1th/pen/OrajGj?editors=0100)
 
 
-### Day 8: January 11, Friday 
+### Day 9: January 12, Saturday 
 
-**Today's Progress**: almost done with my personal portfolio page(project 5: Responsive web design) on FreeCodeCamp..
+**Today's Progress**: almost done with my personal portfolio page(project 5: Responsive web design) on FreeCodeCamp.. 
 
 **Thoughts:** I cant believe I passed 11/12 test without using fully utilizing the grid system. I am unable to figure out why the link is not passing the test.
 
 **Link to work:**[Codepen ref](https://codepen.io/Codesm1th/details/OrajGj)
+
+### Day 10: January 13, Sunday 
+
+**Today's Progress**: Working on freeCodeCamp Basic JavaScript section.
+**Thoughts:** Javascript needs to be mastered to ascribe the position of a web developer. I do my best at all the exercises without checking fcc hints.
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
+
+### Day 11: January 14, Monday 
+
+**Today's Progress**: Still Working on freeCodeCamp Basic JavaScript section, I am on objects.
+
+**Thoughts:** Seems I need to change my coding hour from evening to morning, I hope to accomplish more.
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
 
