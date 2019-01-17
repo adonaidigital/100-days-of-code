@@ -101,3 +101,11 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
 
+### Day 13: January 16, Wednesday 
+
+**Today's Progress**: Completed Basic JavaScript section...
+
+**Thoughts:** I will never underestimated JavaScript, It is really challenging but I know if I persist, I will be a guru.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
+
