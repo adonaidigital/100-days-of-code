@@ -109,3 +109,10 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
 
+### Day 14: January 17, Thursday 
+
+**Today's Progress**: still working on ES6
+
+**Thoughts:** fcc Js part seems to mix advance and fundamentals in the same section of their course making some of the exercises difficult to tackle. You must be well advanced to do fcc project.  
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
+
