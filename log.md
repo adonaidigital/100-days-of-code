@@ -116,3 +116,10 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 **Thoughts:** fcc Js part seems to mix advance and fundamentals in the same section of their course making some of the exercises difficult to tackle. You must be well advanced to do fcc project.  
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
 
+### Day 15: January 18, Friday 
+
+**Today's Progress**: still working on ES6, did rest and spread operators, object destructuring...stuck on some of the exercises
+
+**Thoughts:** I need to retain what I am learning for mastery sake. Not sure if compentency is being formed from fcc exercises that I'm doing, I've been thinking of launch school, but dont know the extent of their free tier.  
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
+
