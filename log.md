@@ -123,3 +123,12 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 **Thoughts:** I need to retain what I am learning for mastery sake. Not sure if compentency is being formed from fcc exercises that I'm doing, I've been thinking of launch school, but dont know the extent of their free tier.  
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
 
+### Day 16: January 20, Sunday 
+
+**Today's Progress**: still working on Fcc ES6 section...stuck on the exercises.
+
+**Thoughts:** I will utilize the Fcc forum more and supplement my study with my available resources like "Colt Steele" & "Kyle Simpson" tutorial to have a grasp of these topic.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
+  
+
