@@ -130,5 +130,21 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 **Thoughts:** I will utilize the Fcc forum more and supplement my study with my available resources like "Colt Steele" & "Kyle Simpson" tutorial to have a grasp of these topic.  
 
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
+
+### Day 17: January 21, Monday 
+
+**Today's Progress**: ...stuck on 2 of the ES6 exercises, forum couldn't help out.
+
+**Thoughts:** I hope to watch scrimba videos on ES6 to gain better understanding.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
+
+### Day 18: January 22, Tuesday 
+
+**Today's Progress**: Working on regular expressions.
+
+**Thoughts:** speed does not matter anymore to me, understanding is crucial, it's ok to spend 4 days on ES6.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions)
   
 
