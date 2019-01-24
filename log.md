@@ -147,4 +147,12 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions)
   
+### Day 19: January 23, Wednesday 
+
+**Today's Progress**: Completed regular expressions, upnext is the debugging challenges.
+
+**Thoughts:** I need to revise and master ES6.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions)
+  
 
