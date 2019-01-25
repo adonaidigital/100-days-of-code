@@ -154,5 +154,13 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 **Thoughts:** I need to revise and master ES6.  
 
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions)
+
+### Day 20: January 24, Thursday 
+
+**Today's Progress**: Completed the debugging challenges, upnext is the basic data structures, almost done with my ES6 revision.
+
+**Thoughts:** It seems there is a lot to read on as much as practicing on fcc to build my muscle memory.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging)
   
 
