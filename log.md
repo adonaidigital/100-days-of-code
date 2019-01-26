@@ -162,5 +162,13 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 **Thoughts:** It seems there is a lot to read on as much as practicing on fcc to build my muscle memory.  
 
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging)
+
+### Day 21: January 25, Friday 
+
+**Today's Progress**: Working on basic data structures.
+
+**Thoughts:** Not sure when to start algorithms on Khan Academy...   
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures)
   
 
