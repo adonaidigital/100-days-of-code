@@ -170,5 +170,13 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 **Thoughts:** Not sure when to start algorithms on Khan Academy...   
 
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures)
+
+### Day 22: January 26, Saturday 
+
+**Today's Progress**: Working on basic data structures.
+
+**Thoughts:** Need to revise array methods on MDN and Colt Steele's material.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures)
   
 
