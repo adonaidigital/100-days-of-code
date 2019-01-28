@@ -178,5 +178,13 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 **Thoughts:** Need to revise array methods on MDN and Colt Steele's material.  
 
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures)
+
+### Day 23: January 27 Sunday 
+
+**Today's Progress**: Completed on basic data structures.
+
+**Thoughts:** Difficulty in iterating through keys of an object, spent hours here on a single exercise but it was worth it.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures)
   
 
