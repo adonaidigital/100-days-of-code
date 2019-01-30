@@ -186,5 +186,21 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 **Thoughts:** Difficulty in iterating through keys of an object, spent hours here on a single exercise but it was worth it.  
 
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures)
+
+### Day 24: January 28 Monday 
+
+**Today's Progress**: Working on basic algorithm scripting.
+
+**Thoughts:** This algorithm scripting is a bit challenging, I need a support material.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
+
+### Day 25: January 29 Tuesday 
+
+**Today's Progress**: Still Working on basic algorithm scripting.
+
+**Thoughts:** Eventhough I could figure out what the answers were, it is difficult to put it in js code...
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
   
 
