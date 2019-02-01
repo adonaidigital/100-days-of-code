@@ -202,5 +202,22 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 **Thoughts:** Eventhough I could figure out what the answers were, it is difficult to put it in js code...
 
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
+
+### Day 25: January 30 Wednesday 
+
+**Today's Progress**: still on basic algorithm scripting.
+
+**Thoughts:** I hope I would'nt exceed 90 days in getting my certificate but it seems there is a chasm of ignorance that should be bridged and whatever time spent learning for mastery is no waste, my certicate can be gotten at a later date. 
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
+
+### Day 26: January 31 Thursday 
+
+**Today's Progress**:  No much progress today, I did not even under the solution to the exercise I am working on. 
+
+**Thoughts:** May be I need a little FCC break, while I study on other tutorials... Hopefully, I can finish up FCC challenges with a better understanding.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
   
+
 
