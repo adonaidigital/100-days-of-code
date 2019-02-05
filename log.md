@@ -226,6 +226,14 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 **Thoughts:** Had a rethink after 4 days of being stuck on algorithm section in FCC and felt I should skip the algorithms for now while I tackle familiar OOP section. I'm not sure if I have broken the 100_Days_Of_Code rule already, though I was actively studying on algorithms in books and other tutorials.  
 
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
+
+### Day 28: Feb 4 Monday 
+
+**Today's Progress**:  Completed OOP in FCC.
+
+**Thoughts:** I am just thinking of doing all Algorithms in the FCC at a single stretch.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
   
 
 
