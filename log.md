@@ -234,6 +234,14 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 **Thoughts:** I am just thinking of doing all Algorithms in the FCC at a single stretch.  
 
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
+
+### Day 29: Feb 5 Monday 
+
+**Today's Progress**:  Working on functional programming section.
+
+**Thoughts:** I need to revise my colt steele tutorials .  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
   
 
 
