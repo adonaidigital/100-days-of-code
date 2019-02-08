@@ -235,11 +235,27 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
 
-### Day 29: Feb 5 Monday 
+### Day 29: Feb 5 Tuesday 
 
 **Today's Progress**:  Working on functional programming section.
 
 **Thoughts:** I need to revise my colt steele tutorials .  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
+
+### Day 30: Feb 6 Wednesday 
+
+**Today's Progress**:  Little progress but revising with Udemy materials.
+
+**Thoughts:** contemplating which tutorial will be best for algorithms out of the myraid of choices.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
+
+### Day 31: Feb 7 Thursday 
+
+**Today's Progress**: 4 exercises left on functional programming.
+
+**Thoughts:** I will try complete the colt steele developer bootcamp I bought over a year ago .  
 
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
   
