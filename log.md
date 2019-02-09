@@ -258,6 +258,14 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 **Thoughts:** I will try complete the colt steele developer bootcamp I bought over a year ago .  
 
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
+
+### Day 32: Feb 8 Friday 
+
+**Today's Progress**: completed functional programming.
+
+**Thoughts:** I have selected algorithm books and tutorials to study, due to my carryovers.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
   
 
 
