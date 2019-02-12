@@ -266,6 +266,22 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 **Thoughts:** I have selected algorithm books and tutorials to study, due to my carryovers.  
 
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
+
+### Day 33: Feb 9 Saturday 
+
+**Today's Progress**: Starting the intermediate algorithm section and also do my left over from the basic section.
+
+**Thoughts:** Fcc algorithm sections will be on hold until all I complete all related tutorials.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+
+### Day 34: Feb 11 Monday 
+
+**Today's Progress**: Read through the algorithm textbook I have with me, about starting Big O Notation(Chapter 2).
+
+**Thoughts:** Order of tutorials will be 1. Textbook,  2. JavaScript info site,  3. Colt Steele's Udemy course on Algorithms.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
   
 
 
