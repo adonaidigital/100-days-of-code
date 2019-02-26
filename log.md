@@ -283,5 +283,85 @@ My goal is to earn my responsive web design cerficate alongside with Js Algorith
 
 **Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
   
+### Day 35: Feb 16 Saturday 
+
+**Today's Progress**: Worked on "big o notation", anagram detection and performance of JavaScript 
+
+**Thoughts:**  no thoughts today... 
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+  
+### Day 36: Feb 17 Sunday 
+
+**Today's Progress**: Worked on Stacks and Queues in the algorithms and data structures book. Set up cloud9 environment.
+
+**Thoughts:** it's time to return to my teacher colt steele.
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+  
+### Day 37: Feb 18 Monday 
+
+**Today's Progress**: Learnt to use 'require' in a node.js environment, installed packages using npm in Web Development BootCamp 
+
+**Thoughts:** Backend basics seems interesting.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+  
+### Day 38: Feb 19 Tuesday 
+
+**Today's Progress**: Deployed my first Node/Express app on Cloud9 in Web Development BootCamp (Server side frameworks section) 
+
+**Thoughts:** Trying to complete Web Development BootCamp.
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+  
+### Day 39: Feb 20 Wednesday 
+
+**Today's Progress**: Returned to basic algorithms scripting @freeCodeCamp, I had some backlog.
+
+**Thoughts:** Hopefully decode it this time around.
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+  
+### Day 40: Feb 21 Thursday 
+
+**Today's Progress**: Working on basic algorithms scripting @freeCodeCamp lot of research on array methods.
+
+**Thoughts:** I should attempt one of the projects especially the one involving regex.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+  
+### Day 41: Feb 22 Friday 
+
+**Today's Progress**: Working on basic algorithms scripting @freeCodeCamp.
+
+**Thoughts:** is Algorithms going to be useful at workplace apart from interview process?  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+  
+### Day 42: Feb 23 Saturday 
+
+**Today's Progress**:  still on basic algorithms scripting @freeCodeCamp.
+
+**Thoughts:** Very challenging aspect of fcc is the algorithms, needs careful thought process and planning.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+  
+### Day 43: Feb 24 Sunday 
+
+**Today's Progress**: completed my leftovers in basic algorithms scripting @freeCodeCamp.
+
+**Thoughts:** Imagine not understanding the thought process of solutions. I really need tutoring.  
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+  
+### Day 44: Feb 25 Monday 
+
+**Today's Progress**: worked on Analysing performance of Arrays and objects in Colt Steele's Udemy course on Algorithms.
+
+**Thoughts:**  I need to understand basic problem solving approach to complete my freecodecamp challenges.
+
+**Link to work:**[Course Ref](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+  
 
 
